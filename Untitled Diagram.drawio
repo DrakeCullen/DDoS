@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T18:37:25.709Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Zsi1XSqGXs-6Tlc6LWEN" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T18:41:52.045Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="tXr0ZcuNfFDO44smkhoG" version="15.1.4" type="github">
   <diagram id="7lfphOHUjY3S9VdXCDPf" name="Page-1">
-    <mxGraphModel dx="1175" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,32 @@
         <mxCell id="yxyxZ8OIE2mSqDVHNegY-19" value="NTP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yxyxZ8OIE2mSqDVHNegY-21">
           <mxGeometry x="70" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yxyxZ8OIE2mSqDVHNegY-20" value="TFTO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yxyxZ8OIE2mSqDVHNegY-21">
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-20" value="TFTP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yxyxZ8OIE2mSqDVHNegY-21">
           <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-23" value="SNMP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-24" value="NETBIOS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-25" value="LDAP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-26" value="DNS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-27" value="PORTMAP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-28" value="SYN Flood" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-29" value="SSDP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-30" value="MSSQL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="220" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
