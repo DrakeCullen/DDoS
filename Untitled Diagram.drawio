@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T02:58:57.482Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.1.4" etag="0UcQPb-hCF1yw49B_GAl" type="github"><diagram id="7lfphOHUjY3S9VdXCDPf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-10T18:37:25.709Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Zsi1XSqGXs-6Tlc6LWEN" version="15.1.4" type="github">
+  <diagram id="7lfphOHUjY3S9VdXCDPf" name="Page-1">
+    <mxGraphModel dx="1175" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;DDOS Attacks&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="60" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-5" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yxyxZ8OIE2mSqDVHNegY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="130" as="sourcePoint" />
+            <mxPoint x="175" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yxyxZ8OIE2mSqDVHNegY-1" target="yxyxZ8OIE2mSqDVHNegY-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="805" y="130" as="sourcePoint" />
+            <mxPoint x="660" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="668" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yxyxZ8OIE2mSqDVHNegY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="425" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;TCP Based Attacks&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-10" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;TCP/UDP Based Attack&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="150" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-12" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;UDP Based Attacks&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="150" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="220" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-13" value="UDP-Lag" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yxyxZ8OIE2mSqDVHNegY-21">
+          <mxGeometry x="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-18" value="UDP Flood" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yxyxZ8OIE2mSqDVHNegY-21">
+          <mxGeometry x="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-19" value="NTP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yxyxZ8OIE2mSqDVHNegY-21">
+          <mxGeometry x="70" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxyxZ8OIE2mSqDVHNegY-20" value="TFTO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yxyxZ8OIE2mSqDVHNegY-21">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
